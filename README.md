@@ -1,0 +1,2 @@
+# ilkwebpage
+Patika İlk Ödev
